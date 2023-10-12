@@ -1,0 +1,10 @@
+# ninja log v5
+3	6030	1670952520394804114	/home/zhh6/pointvideo/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/interpolate.o	b37411e46b452d63
+4	6096	1670952520458804053	/home/zhh6/pointvideo/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/sampling.o	6f214ad90c6bbb07
+2	6108	1670952520474804036	/home/zhh6/pointvideo/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/ball_query.o	65adab03545b0453
+3	6402	1670952520766803751	/home/zhh6/pointvideo/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/group_points.o	e2a8d3eaa894a008
+4	16949	1670952531318793449	/home/zhh6/pointvideo/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/interpolate_gpu.o	813f3ef639f5b1c5
+4	17071	1670952531442793329	/home/zhh6/pointvideo/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/group_points_gpu.o	5ae501329fc4c5da
+2	17091	1670952531462793310	/home/zhh6/pointvideo/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/ball_query_gpu.o	b4535acb0e05bd16
+5	17850	1670952532218792570	/home/zhh6/pointvideo/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/sampling_gpu.o	c7990c609998bc6b
+2	21021	1670952535358789510	/home/zhh6/pointvideo/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/pointnet2_api.o	a2295eef20ad66f0
