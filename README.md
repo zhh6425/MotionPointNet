@@ -1,4 +1,4 @@
-# Motion PointNet: Solving Dynamic Capture in Point Cloud Video Human Action
+# On Exploring PDE Modeling for Point Cloud Video Representation Learning
 
 ## Action Recognition results on MSR-Action3D
 | Methods                                | 4     | 8     | 12    | 16    | 20    | 24   |        
