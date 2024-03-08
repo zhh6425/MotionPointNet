@@ -39,10 +39,6 @@ Down the MSRAction-3D dataset from [here](https://drive.google.com/file/d/1djwAK
 ```
 python msr_preprocess.py --input_dir /path/to/Depth --output_dir /path/to/data
 ```
-And generate the sparse dataset runing folowing
-```
-python input_preparation.py --dataset_path /path/to/data
-```
 
 ## Training on MSRAction-3D from the start
 modify the ```resume``` in [config](./config) to ```None``` and run
