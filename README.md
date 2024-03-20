@@ -41,7 +41,7 @@ python msr_preprocess.py --input_dir /path/to/Depth --output_dir /path/to/data
 ```
 
 ## Training on MSRAction-3D from the start
-modify the ```resume``` in [config](./config) to ```None``` and run
+modify the ```resume``` in [config](./configs) to ```None``` and run
 ```
 torchrun --nproc_per_node=2 --master_port 33333 train.py --cfg configs/msr_motion_finetune.py
 ```
