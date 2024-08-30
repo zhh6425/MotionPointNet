@@ -48,3 +48,16 @@ modify the ```resume``` in [config](./configs) to ```None``` and run
 ```
 torchrun --nproc_per_node=2 --master_port 33333 train.py --cfg configs/msr_motion_finetune.py
 ```
+
+## Citation
+
+If you find this code useful for your research, please cite the following paper.
+
+```bibtex
+@article{huang2024exploring,
+  title={On Exploring PDE Modeling for Point Cloud Video Representation Learning},
+  author={Huang, Zhuoxu and Fan, Zhenkun and Xu, Tao and Han, Jungong},
+  journal={arXiv preprint arXiv:2404.04720},
+  year={2024}
+}
+```
