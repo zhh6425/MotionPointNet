@@ -1,4 +1,7 @@
-# On Exploring PDE Modeling for Point Cloud Video Representation Learning
+# Motion PointNet
+
+> Offical Repo of paper _On Exploring PDE Modeling for Point Cloud Video Representation Learning_
+- **Paper:** [https://arxiv.org/pdf/2402.08183.pdf](https://arxiv.org/pdf/2404.04720v2)
 
 ## Action Recognition results on MSR-Action3D
 | Methods                                | 4     | 8     | 12    | 16    | 20    | 24   |        
